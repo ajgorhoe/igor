@@ -1,5 +1,5 @@
 
-# Igor's Pages
+# Igor's Software Pages
 
 ## About this Repository
 

@@ -1,6 +1,8 @@
 
 # Web Page Repository for ajgorhoe.github.io/igor
 
+**Important**: Pages from this directory moved to ../IGLibFramework/ . The appropriate redirects were created.
+
 Repository: https://github.com/ajgorhoe/igor
 Web page: https://ajgorhoe.github.io/igor/
 

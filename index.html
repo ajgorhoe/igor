@@ -23,7 +23,11 @@
     <link rel="stylesheet" href="https://ajgorhoe.github.io/scripts/IgsScriptSupport.css" />
     <!-- The following two script elements perform canonical redirect: -->
     <script src="https://ajgorhoe.github.io/scripts/IgsScriptTools.js"></script>
-    <script>igsCanonicalRedirect();</script>
+    <script>
+	  // igsCanonicalRedirect(); // canonical redirect
+	  // Perform redirect after some time:
+      igsRedirectWhenTimeMs(3000, "../IGLibFramework/index.html");
+	</script>
 </head>
   <body>
     <br>
